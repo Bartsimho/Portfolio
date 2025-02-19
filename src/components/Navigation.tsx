@@ -20,7 +20,7 @@ export default function Navigation() {
       <div className="max-w-6xl mx-auto px-4">
         <div className="flex justify-between items-center h-16">
           <a href="#" className={`text-2xl font-bold ${isScrolled ? 'text-gray-900' : 'text-white'}`}>
-            Portfolio
+            Ryan Shaw's Portfolio
           </a>
           
           <div className="hidden md:flex space-x-8">
