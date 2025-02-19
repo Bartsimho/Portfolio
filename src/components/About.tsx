@@ -12,14 +12,14 @@ export default function About() {
               <Code className="text-blue-600" size={32} />
             </div>
             <h3 className="text-xl font-semibold mb-2">Web Development</h3>
-            <p className="text-gray-600">Utilising React, Typescript and Tailwind to create responsive Websites</p>
+            <p className="text-gray-600">Utilising React, Typescript and Tailwind to create responsive websites</p>
           </div>
           <div className="text-center">
             <div className="w-16 h-16 mx-auto mb-4 bg-emerald-100 rounded-full flex items-center justify-center">
               <Globe className="text-emerald-600" size={32} />
             </div>
             <h3 className="text-xl font-semibold mb-2">Data Analysis</h3>
-            <p className="text-gray-600">Leveraging Machine Learning to Classify and perform Regression Analysis to gain key insights</p>
+            <p className="text-gray-600">Leveraging Machine Learning and AI to gain key insights</p>
           </div>
           <div className="text-center">
             <div className="w-16 h-16 mx-auto mb-4 bg-purple-100 rounded-full flex items-center justify-center">

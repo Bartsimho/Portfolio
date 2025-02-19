@@ -3,7 +3,7 @@ import { Github, Linkedin, Mail, ChevronDown } from 'lucide-react';
 
 export default function Hero() {
   return (
-    <div className="min-h-screen flex flex-col justify-center items-center [url(../img/)] from-gray-900 to-gray-800 text-white relative">
+    <div className="min-h-screen flex flex-col justify-center items-center bg-[url(/img/Hero.jpg)] from-gray-900 to-gray-800 text-white relative">
       <div className="max-w-4xl mx-auto px-4 text-center">
         <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-emerald-400">
           Ryan Shaw
