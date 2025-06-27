@@ -1,24 +1,26 @@
 import React from 'react';
+import dissertationPDF from '../assets/An Investigation and Technical Demonstration of a Course Management System for Golfers.pdf'
 
 const projects = [
   {
     title: "Text Based Adventure Game",
-    description: "A text based adventure game built for a Game Jam",
-    image: "https://images.unsplash.com/photo-1557821552-17105176677c?auto=format&fit=crop&w=800&q=80",
+    description: "A text based adventure game built for the UoL 'We do a Lil Jam' Game Jam",
+    image: "https://img.itch.zone/aW1nLzEzODQ2Njg4LnBuZw==/100x79%23/8lpWiH.png?auto=format&fit=crop&w=800&q=80",
     tags: ["C++"],
     link: "https://itch.io/jam/we-do-a-lil-jam/rate/2337941"
   },
   {
-    title: "Task Management App",
-    description: "A collaborative task management application",
+    title: "Dissertation: An Investigation and Technical Demonstration of a GPS Course Management System for Golfers",
+    description: "A Full Dissertation study into if giving information imporves performance through decision making",
     image: "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?auto=format&fit=crop&w=800&q=80",
-    tags: ["React", "Redux", "Firebase"]
+    tags: ["Dissertation", "Data Analysis", "Python"],
+    link: dissertationPDF
   },
   {
     title: "GPS Distance Measuring Website",
     description: "A GPS distance measuring web app built with React, Typescript and Tailwind",
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
-    tags: ["React", "Typescript", "Tailwind CSS"],
+    tags: ["React", "Typescript", "Tailwind", "Vite"],
     link: "https://bartsimho.github.io/CourseManagement/"
   }
 ];
