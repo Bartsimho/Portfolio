@@ -1,5 +1,5 @@
 import React from 'react';
-import dissertationPDF from '../assets/An Investigation and Technical Demonstration of a Course Management System for Golfers.pdf'
+import dissertationPDF from '../assets/An Investigation and Technical Demonstration of a Course Management System for Golfers.pdf';
 
 const projects = [
   {
